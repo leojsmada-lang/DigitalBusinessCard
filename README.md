@@ -2,6 +2,8 @@
 
 A modern, responsive digital business card built with React, TypeScript, and Vite. Showcase your professional profile with a sleek, interactive design.
 
+![Preview](./preview.png)
+
 ## Features
 
 - 📱 Fully responsive design
